@@ -17,7 +17,31 @@ Building real-world projects in data science, applied machine learning, and AI s
 ## 🚀 Projects
 Take a look at the projects I am mostly proud of:
 
-WIP
+---
+
+### 🤖 [Multimodal Chatbot](https://github.com/martijnooo/multimodal-chatbot)
+An intelligent conversational agent designed to handle diverse data inputs, moving beyond simple text to provide a richer user experience.
+* **Key Features:** Supports text, image, and document-based queries using advanced LLM integration.
+* **Technical Highlights:** Implements **Retrieval-Augmented Generation (RAG)** to provide context-aware answers from uploaded files.
+* **Tech Stack:** Python, LangChain, OpenAI/Gemini APIs, and Streamlit for the interface.
+
+---
+
+### 📈 [Prediction Project](https://github.com/martijnooo/prediction-project)
+A comprehensive data science project focused on building and deploying machine learning models to forecast outcomes based on historical data.
+* **Key Features:** Features a full data pipeline—from exploratory data analysis (EDA) and cleaning to model training and evaluation.
+* **Technical Highlights:** Utilizes ensemble learning or regression techniques to optimize accuracy and minimize out-of-sample error.
+* **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, AWS .
+
+---
+
+### 🗂️ [Flashcards App](https://github.com/martijnooo/flashcards)
+A functional productivity tool built to streamline learning through active recall and organized study sessions.
+* **Key Features:** Allows users to create, categorize, and review digital decks with a clean, responsive UI.
+* **Technical Highlights:** Focuses on efficient state management and local data persistence to ensure a seamless study flow.
+* **Tech Stack:** LLMs & Langchain.
+
+---
 
 ---
 
